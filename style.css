@@ -1,0 +1,46 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    
+}
+label{
+    display: block;
+    font-size: 20px;
+}
+h1{
+    font-size: 20px;
+    
+}
+input{
+    font-size: 15px;
+    height: 30px;
+}
+button{
+    background-color:black;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    color: white;
+}
+button:hover{
+    background-color:lavender;
+    color: black;
+}
+#result{
+    font-size: 20px;
+    color: blanchedalmond;
+}
+
+.container{
+    padding: 100px;
+    background-color:cadetblue;
+    text-align: center;
+    width: 200px;
+    justify-items: center;
+    margin-left: 50px;
+    margin-top: 150px;
+
+}
